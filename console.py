@@ -1,4 +1,6 @@
-irBnB Console """
+#!/usr/bin/env python3
+
+"""AirBnB Console """
 
 from models.base_model import BaseModel
 from models.user import User
